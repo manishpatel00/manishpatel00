@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Radio button</title>
+</head>
+<body>
+     <form action="/server">
+          <div> <h3>Choose your favrite fruits :</h3>
+               <input type="radio" name="fruit" id="apple" value="apple" />
+               <label for="apple">apple </label>
+               <input type="radio" name="fruit" id="mango" value="mango" />
+               <label for="mango">mango </label>
+               <input type="radio" name="fruit" id="banana" value="banana" />
+               <label for="banana">banana </label>
+               <input type="radio" name="fruit" id="orange" value="orange" />
+               <label for="orange">orange</label>
+               <br/>
+                  <button>summit</button>
+          </div>
+               <br/>
+         <div>
+         </div>  <h3>Choose your Subjects :</h3>
+            <input type="checkbox" name="subject" id="math"  value="math" />
+            <label for="math">math </label>
+            <input type="checkbox" name="subject" id="english" value="english" />
+            <label for="English">english </label>
+            <input type="checkbox" name="subject" id="science" value="science"  />
+            <label for="science">science </label>
+             <br/>
+               <button>Summit</button>
+         </div>
+            <br/>
+          <div>
+               <h3> Select your profession :</h3>
+               <select name="profession" id="profession">
+                    <option> choose your option  </option>
+                    <option value=" student" > student</option>
+                    <option value=" Development"> Development</option>
+               </select>
+               <button>Summit</button>
+          </div>
+              <br/>
+          <div>
+               <label for="vol">  <h3> Select your volume level :</h3> </label>
+               <input type="range" id="vol" min="0" max="100" step="10" name="vol"/>
+               <button>Submit</button> 
+          </div>
+           <br/>
+           <div>
+               <label for="feedback">  <h3>Please provide your feedback :</h3></label>
+               <textarea id="feedback" name="feedback" row="20" col="70"> </textarea>
+               <button>Submit</button>
+           </div>
+     
+     </form>
+     
+</body>
+</html>
