@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">B.Tech CSE Student | Aspiring Full Stack Developer | DSA Enthusiast</h3>
+<p align=>
+  <img src="https://komarev.com/ghpvc/?username=manishpatel00&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
@@ -8,7 +11,7 @@
 - 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering**
 - 🌱 Learning **Full Stack Development** and mastering **DSA**
 - 💻 Exploring **React**, **Node.js**, **JavaScript**, **Python**, and more
-- 🧠 Solving problems on **HavkerRank**, **CodeChef**, and **GeeksforGeeks**
+- 🧠 Solving problems on **HackerRank**, **CodeChef**, and **GeeksforGeeks**
 - 🚀 Passionate about building real-world projects to sharpen my skills
 
 ---
@@ -31,7 +34,6 @@
 
 ---
 
-
 ### 🌐 Connect With Me
 
 <p align="left">
@@ -46,6 +48,8 @@
   </a>
 </p>
 
+
 ---
 
 <h4 align="center">✨ Keep Learning. Keep Building. Keep Growing. ✨</h4>
+
