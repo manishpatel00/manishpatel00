@@ -8,7 +8,7 @@
 - 🎓 I’m currently pursuing **B.Tech in Computer Science & Engineering**
 - 🌱 Learning **Full Stack Development** and mastering **DSA**
 - 💻 Exploring **React**, **Node.js**, **JavaScript**, **Python**, and more
-- 🧠 Solving problems on **LeetCode**, **Codeforces**, and **GeeksforGeeks**
+- 🧠 Solving problems on **HavkerRank**, **CodeChef**, and **GeeksforGeeks**
 - 🚀 Passionate about building real-world projects to sharpen my skills
 
 ---
