@@ -46,6 +46,9 @@
   <a href="https://www.instagram.com/m.a.n.i.s.h._.p.a.t.e.l" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+<a href="https://x.com/M_a_n_i_s_h_P" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" />
+</a>
 </p>
 
 
