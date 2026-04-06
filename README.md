@@ -82,9 +82,6 @@ currently   : Building production-grade AI platforms
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
 ### 🧠 InsightCareer AI
 **AI-Powered Career Coaching Platform**
@@ -98,25 +95,6 @@ currently   : Building production-grade AI platforms
 
 **Stack:** `Next.js 14` `TypeScript` `LangChain` `OpenAI` `PostgreSQL` `Clerk`
 
-</td>
-<td width="50%" valign="top">
-
-### ⚔️ SkillForge — AI Career Coach
-**Adaptive Career Intelligence Platform**
-
-[![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://skillforge.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/manishpatel00/SkillForge)
-
-- 🎯 Mock interviews, analytics dashboards & personalized learning roadmaps
-- 🤖 **ForgeBot** — contextual AI career assistant via Google Gemini API
-- ⚡ Inngest-automated workflows → **40% faster** load times, **99.9% uptime**
-
-**Stack:** `Next.js` `Tailwind CSS` `Prisma` `Gemini API` `Inngest`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 📊 TrackMyProgress
 **Learning Analytics Dashboard**
@@ -130,18 +108,6 @@ currently   : Building production-grade AI platforms
 
 **Stack:** `React 18` `TypeScript` `FastAPI` `Tailwind CSS` `Vite`
 
-</td>
-<td width="50%" valign="top">
-
-### 🌐 More Coming Soon...
-
-Currently building & contributing — stay tuned for more open source work and AI-driven projects.
-
-[![Follow on GitHub](https://img.shields.io/github/followers/manishpatel00?label=Follow&style=social)](https://github.com/manishpatel00)
-
-</td>
-</tr>
-</table>
 
 ---
 
