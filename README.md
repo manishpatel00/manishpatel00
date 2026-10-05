@@ -91,7 +91,11 @@ AI Engineer and Full-Stack Developer building autonomous agent systems, software
 
 ### AI Engineering & Agents
 
-<img src="https://skillicons.dev/icons?i=python,langchain,gemini" height="52" alt="Python, LangChain, Gemini" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" />
+</p>
 
 `LLMs` · `RAG` · `Prompt Engineering`  
 `SWE Benchmarking` · `Multi-Agent Systems`
@@ -122,9 +126,9 @@ AI Engineer and Full-Stack Developer building autonomous agent systems, software
 
 ### DevOps, Evaluation & Testing
 
-<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,linux,bash,playwright,jest" height="52" alt="Docker, GitHub Actions, Vercel, Linux, Bash, Playwright, Jest" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,linux,playwright" height="52" alt="Docker, GitHub Actions, Vercel, Linux, Playwright" />
 
-`Google Cloud Run` · `Postman` · `Pytest`  
+`Google Cloud Run` · `Postman` · `Pytest` · `Jest`  
 `CI/CD` · `Containerized Testing`
 
 </td>
