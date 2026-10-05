@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=240&color=0:0f172a,45:312e81,100:111827&text=MANISH%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=64&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=180&color=0:0f172a,45:312e81,100:111827&text=MANISH%20KUMAR&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Contributor&descAlignY=68&descSize=14"/>
 <br/>
 
 
@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<br/><br/>
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-CNCF%20Contributor-22c55e?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=111827"/>
