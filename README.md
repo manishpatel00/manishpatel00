@@ -83,21 +83,55 @@ AI Engineer and Full-Stack Developer building autonomous agent systems, software
 
 ## Tech Stack
 
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
 ### AI Engineering & Agents
 
-`Autonomous AI Agents` `LLMs` `LangChain` `RAG` `Gemini 2.5 Flash` `Prompt Engineering` `SWE Benchmarking` `Multi-Agent Coordination`
+<img src="https://skillicons.dev/icons?i=python,langchain,gemini" height="52" alt="Python, LangChain, Gemini" />
 
-### Web & Full-Stack Systems
+`LLMs` · `RAG` · `Prompt Engineering`  
+`SWE Benchmarking` · `Multi-Agent Systems`
 
-`Next.js` `React` `TypeScript` `Node.js` `Tailwind CSS` `REST APIs` `Vite` `MDX` `State Machines`
+</td>
+<td width="50%" valign="top" align="center">
 
-### Databases & Cloud Architecture
+### Web & Full-Stack
 
-`Supabase` `PostgreSQL` `Firebase` `Drizzle ORM` `FastAPI` `SQL Optimization` `OAuth 2.0` `Clerk`
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,tailwind,vite" height="52" alt="TypeScript, React, Next.js, Node.js, Tailwind CSS, Vite" />
+
+`REST APIs` · `MDX` · `State Machines`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### Data & Cloud Architecture
+
+<img src="https://skillicons.dev/icons?i=supabase,postgresql,firebase,gcp" height="52" alt="Supabase, PostgreSQL, Firebase, Google Cloud" />
+
+`Drizzle ORM` · `FastAPI` · `SQL Optimization`  
+`OAuth 2.0` · `Clerk`
+
+</td>
+<td width="50%" valign="top" align="center">
 
 ### DevOps, Evaluation & Testing
 
-`Docker` `Google Cloud Run` `GitHub Actions` `Vercel` `Linux` `Bash Automation` `Pytest` `Jest` `Playwright` `Postman`
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,linux,bash,playwright,jest" height="52" alt="Docker, GitHub Actions, Vercel, Linux, Bash, Playwright, Jest" />
+
+`Google Cloud Run` · `Postman` · `Pytest`  
+`CI/CD` · `Containerized Testing`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
