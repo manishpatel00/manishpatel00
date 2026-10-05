@@ -91,14 +91,10 @@ AI Engineer and Full-Stack Developer building autonomous agent systems, software
 
 ### AI Engineering & Agents
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="28" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,openai,tensorflow" height="52" alt="Python, OpenAI, TensorFlow" />
 
-`LLMs` · `RAG` · `Prompt Engineering`  
-`SWE Benchmarking` · `Multi-Agent Systems`
+`LLMs` · `LangChain` · `RAG`  
+`Gemini` · `Prompt Engineering` · `SWE Benchmarking`
 
 </td>
 <td width="50%" valign="top" align="center">
