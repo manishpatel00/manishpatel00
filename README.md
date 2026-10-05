@@ -48,7 +48,7 @@ AI Engineer and Full-Stack Developer building autonomous agent systems, software
 | 🥇 | **Hackathon Winner** | MLH Gemini Builds and HackDays Prayagraj — built SAVIOUR.OS |
 | 🌍 | **Global Rank #25** | HackerRank Orchestrate AI Agent Hackathon — Top 0.2% |
 | 🇮🇳 | **INSPIRE Scholar** | Department of Science & Technology, Government of India — Top 1% nationally |
-| ☁️ | **Open Source Contributor** | CNCF Meshery and omegaUp ecosystems |
+
 
 </div>
 
