@@ -30,17 +30,12 @@
 
 ## 🧑‍💻 About Me
 
-<div align="center">
+AI Engineer and Full-Stack Developer building autonomous agent systems, software-engineering benchmarks, and cloud-scale web applications.
 
-|  |  |
-|---|---|
-| 👨‍💻 **Role** | AI Engineer & Full-Stack Developer |
-| 📍 **Location** | Uttar Pradesh, India |
-| 🎯 **Focus** | AI agents, LLM orchestration, backend systems, and developer tooling |
-| 🤝 **Open To** | Open-source collaborations, technical speaking, and engineering projects |
-| 🚀 **Currently** | Building evaluation systems and production-ready AI applications |
-
-</div>
+- **Current:** AI Engineer at Shipd AI (Datacurve, YC W24)
+- **Focus:** Multi-agent systems, LLM orchestration, Next.js, Supabase, and PostgreSQL
+- **Community:** SupaSquad Member and Technical Event Speaker at Supabase
+- **Open to:** Meaningful open-source collaborations and engineering projects
 
 ---
 
@@ -50,8 +45,10 @@
 
 | 🎖️ | Achievement | Details |
 |---|---|---|
-| 🥇 | **Global Rank #25** | HackerRank Orchestrate AI Agent Hackathon — 12,885+ participants, 48 countries (2026) |
-| 🇮🇳 | **INSPIRE Scholarship** | Dept. of Science & Technology, Govt. of India — Top **1% nationally** (2023) |
+| 🥇 | **Hackathon Winner** | MLH Gemini Builds and HackDays Prayagraj — built SAVIOUR.OS |
+| 🌍 | **Global Rank #25** | HackerRank Orchestrate AI Agent Hackathon — Top 0.2% |
+| 🇮🇳 | **INSPIRE Scholar** | Department of Science & Technology, Government of India — Top 1% nationally |
+| ☁️ | **Open Source Contributor** | CNCF Meshery and omegaUp ecosystems |
 
 </div>
 
