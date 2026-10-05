@@ -37,7 +37,6 @@
 | 👨‍💻 **Role** | Full-Stack Developer & AI Engineer |
 | 📍 **Location** | Uttar Pradesh, India |
 | 🎓 **Education** | B.Tech CSE & IT @ MJPRU |
-| 🤖 **Focus** | LLMs • RAG • Backend Systems |
 | 🤝 **Open To** | Collaborations • Open Source • Freelance Projects |
 | 🚀 **Currently** | Building scalable AI applications |
 
@@ -58,35 +57,27 @@
 
 ---
 
-## 🌍 Open Source Contributions
+## Open Source Contributions
 
-### ☸️ KubeEdge — CNCF (Go · Kubernetes · Edge Computing)
-
-[![KubeEdge](https://img.shields.io/badge/kubeedge/kubeedge-CNCF%20Project-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubeedge/kubeedge)
-
-- ✅ Improved CLI usability in `keadm ctl` — added detailed help messages, command descriptions, and usage examples across multiple subcommands, enhancing DX for production edge node operators
-- ✅ Fixed incorrect **CloudHub logging** in the `CheckNode` handler — improved debugging clarity and cloud-side consistency for Kubernetes edge deployments
-- ✅ Proposed an **edge AI inference architecture** for lightweight LLM deployment on Kubernetes edge nodes using FastAPI sidecars and GGUF-quantized models
-
-### 🕸️ Meshery — CNCF (React · TypeScript · Vite)
-
-[![Meshery](https://img.shields.io/badge/meshery%20ecosystem-CNCF%20Project-00B39F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meshery)
-
-- ✅ Resolved **ESLint v9 compatibility** issues in the Shape Builder extension and restored CI pipeline stability
-- ✅ Migrated frontend tooling from **CRA/Webpack → Vite**, improving build speed and simplifying the development workflow
-
-### 🏁 omegaUp — Competitive Programming Judge (Vue.js · PHP · TypeScript)
+###  omegaUp - Competitive Programming Judge (Vue.js · PHP · TypeScript)
 
 [![omegaUp](https://img.shields.io/badge/omegaup/omegaup-100K%2B%20Students-4FC08D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omegaup/omegaup)
 
-- ✅ Fixed **CSP compliance issues** caused by external stylesheet dependencies in the frontend application
-- ✅ Resolved **browser history synchronization bugs** causing broken SPA navigation behavior
-- ✅ Enhanced **UI state visibility** for filter and sorting controls across desktop and mobile interfaces
-- ✅ Fixed form validation bugs causing silent submission failures during problem updates
+-  Fixed **CSP compliance issues** caused by external stylesheet dependencies in the frontend application
+-  Resolved **browser history synchronization bugs** causing broken SPA navigation behavior
+-  Enhanced **UI state visibility** for filter and sorting controls across desktop and mobile interfaces
+-  Fixed form validation bugs causing silent submission failures during problem updates
+
+###  Meshery - CNCF (React · TypeScript · Vite)
+
+[![Meshery](https://img.shields.io/badge/meshery%20ecosystem-CNCF%20Project-00B39F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/meshery)
+
+-  Resolved **ESLint v9 compatibility** issues in the Shape Builder extension and restored CI pipeline stability
+-  Migrated frontend tooling from **CRA/Webpack → Vite**, improving build speed and simplifying the development workflow
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -133,9 +124,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-## ⚠️ Error404 UI  
+## Error404 UI  
 ### Open Source 404 Component Library
 
 > *Beautiful animated 404 experiences for modern web applications.*
@@ -158,12 +149,12 @@
 
 Error404 UI is a production-ready open-source library featuring animated 404 pages, reusable UI components, MDX documentation, authentication, payments, dashboards, and scalable architecture.
 
-### ✨ Highlights
+### Highlights
 
-- ⚡ 19+ animated 404 UI components
-- 🔐 Authentication & subscription system
-- 📚 MDX-powered documentation
-- 🧪 Playwright testing + CI/CD workflows
+-  19+ animated 404 UI components
+-  Authentication & subscription system
+-  MDX-powered documentation
+-  Playwright testing + CI/CD workflows
 
 ```bash
 git clone https://github.com/manishpatel00/error404-ui
@@ -173,7 +164,7 @@ npm install
 npm run dev
 ```
 
-### ⚒️ Tech Stack Used
+###  Tech Stack Used
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -185,58 +176,7 @@ npm run dev
 
 ---
 
-## 🧠 InsightCareer AI  
-### AI Career Intelligence Platform
-
-> *AI-powered resume analysis and career optimization platform.*
-
-<br/>
-
-<p align="left">
-  <a href="https://insightcareer.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/manishpatel00/InsightCareer-AI">
-    <img src="https://img.shields.io/badge/SOURCE-CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://insightcareer.vercel.app">
-    <img src="https://img.shields.io/badge/AI-POWERED-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" />
-  </a>
-</p>
-
-InsightCareer AI helps users optimize resumes, improve ATS scores, generate cover letters, and receive personalized AI-driven career guidance using LLM workflows.
-
-### ✨ Highlights
-
-- 📄 Resume analysis & ATS optimization
-- 🤖 LangChain + OpenAI/Gemini workflows
-- 🔒 Secure authentication & backend architecture
-- ⚡ Full-stack deployment with CI/CD
-
-```bash
-git clone https://github.com/manishpatel00/InsightCareer-AI
-
-cd InsightCareer-AI
-npm install
-npm run dev
-```
-
-### ⚒️ Tech Stack Used
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -250,7 +190,7 @@ npm run dev
 
 ---
 
-## 📚 Relevant Coursework
+## Relevant Coursework
 
 <div align="center">
 
