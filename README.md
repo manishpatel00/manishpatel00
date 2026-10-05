@@ -7,7 +7,6 @@
 Building reliable AI agents, developer tools, and cloud-native web applications.
 
 <p>
-  <a href="https://manishpatel00.github.io">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/manishpatel005">LinkedIn</a> ·
   <a href="mailto:manishpatel953249@gmail.com">Email</a> ·
   <a href="https://x.com/M_a_n_i_s_h_P">X</a>
