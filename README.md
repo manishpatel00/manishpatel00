@@ -32,7 +32,7 @@
 
 AI Engineer and Full-Stack Developer building autonomous agent systems, software-engineering benchmarks, and cloud-scale web applications.
 
-- **Current:** AI Engineer at Shipd AI (Datacurve, YC W24)
+- **Current:** Software Engineering Contributor at Shipd AI (Datacurve, YC W24) & SWE Fellow at Hash
 - **Focus:** Multi-agent systems, LLM orchestration, Next.js, Supabase, and PostgreSQL
 - **Community:** SupaSquad Member and Technical Event Speaker at Supabase
 - **Open to:** Meaningful open-source collaborations and engineering projects
@@ -43,12 +43,12 @@ AI Engineer and Full-Stack Developer building autonomous agent systems, software
 
 <div align="center">
 
-| 🎖️ | Achievement | Details |
-|---|---|---|
-| 🥇 | **Hackathon Winner** | MLH Gemini Builds and HackDays Prayagraj — built SAVIOUR.OS |
-| 🌍 | **Global Rank #25** | HackerRank Orchestrate AI Agent Hackathon — Top 0.2% |
-| 🇮🇳 | **INSPIRE Scholar** | Department of Science & Technology, Government of India — Top 1% nationally |
-| ☁️ | **Open Source Contributor** | CNCF Meshery and omegaUp ecosystems |
+| Achievement | Details |
+|---|---|
+| **Hackathon Winner** | Gemini Builds and HackDays Prayagraj (MLH) - built SAVIOUR.OS |
+| **Global Rank #25** | HackerRank Orchestrate AI Agent Hackathon - Top 0.2% |
+| **INSPIRE Scholar** | Department of Science & Technology, Government of India - Top 1% nationally |
+| **Open Source Contributor** | CNCF Meshery and omegaUp ecosystems |
 
 </div>
 
@@ -56,7 +56,7 @@ AI Engineer and Full-Stack Developer building autonomous agent systems, software
 
 ## Open Source Contributions
 
-### [omegaUp](https://github.com/omegaup/omegaup) - Competitive Programming Judge
+### [omegaUp](https://github.com/omegaup/omegaup) 
 
 **Vue.js · PHP · TypeScript**
 
@@ -65,19 +65,13 @@ AI Engineer and Full-Stack Developer building autonomous agent systems, software
 - Improved filter and sorting state visibility across desktop and mobile layouts
 - Fixed form-validation edge cases causing silent submission failures
 
-### [Meshery](https://github.com/meshery/meshery) - CNCF Cloud Native Platform
+### [Meshery](https://github.com/meshery/meshery)
 
 **React · TypeScript · Vite**
 
 - Resolved ESLint 9 compatibility issues in the Shape Builder extension
 - Migrated frontend tooling from CRA/Webpack to Vite
 - Restored CI stability and simplified the local development workflow
-
-### [Shape Builder](https://github.com/meshery-extensions/shape-builder)
-
-- Improved polygon-coordinate display and clipboard interaction
-- Fixed copy-to-clipboard visibility after long coordinate values
-- Added ESLint 9 flat-config compatibility for reliable CI builds
 
 ---
 
@@ -194,13 +188,6 @@ AI Engineer and Full-Stack Developer building autonomous agent systems, software
 - MDX documentation with live previews and copy-paste examples
 - Playwright testing and CI/CD workflows for the component library
 
-```bash
-git clone https://github.com/manishpatel00/error404-ui
-cd error404-ui
-npm install
-npm run dev
-```
-
 **Next.js · TypeScript · MDX · Tailwind CSS · Playwright**
 
 ---
@@ -211,7 +198,6 @@ npm run dev
 
 <td valign="top" width="45%" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishpatel00&custom_title=Contribution%20Graph&bg_color=0d1117&color=7C83FD&line=7C83FD&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=manishpatel00&theme=tokyonight_duo&hide_border=true&background=0D1117&ring=7C83FD&fire=7C83FD&currStreakLabel=FFFFFF" width="60%" />
 
@@ -278,7 +264,7 @@ npm run dev
 
 <div align="center">
 
-# 💬 Let's Connect
+# Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/manishpatel005">
@@ -300,9 +286,4 @@ npm run dev
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:111827&height=130&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=70" />
-
-</div>
-
----
 
