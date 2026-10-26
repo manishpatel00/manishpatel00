@@ -32,7 +32,7 @@
 |---|---|
 | [omegaUp](https://github.com/omegaup/omegaup) | SQL and cron optimization, transaction-safety fixes, Vue 3 migration, CSP and CI fixes |
 | [FOSSASIA Eventyay](https://github.com/fossasia/eventyay) | DRF validation fixes, multi-tenant scoping, cart and bundle integrity |
-| [CNCF Meshery](https://github.com/meshery/meshery) and KubeEdge | CRA to Vite migration, ESLint 9 compatibility, CLI and CloudHub logging |
+| [CNCF Meshery](https://github.com/meshery/meshery)  | CRA to Vite migration, ESLint 9 compatibility, CLI and CloudHub logging |
 
 ---
 
