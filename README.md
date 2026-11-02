@@ -52,15 +52,6 @@
 | [SigNoz SRE Copilot](https://github.com/manishpatel00/signoz-sre-copilot) | Agents diagnose and remediate incidents via MCP and OpenTelemetry | Python, CrewAI, MCP |
 | [Error404 UI](https://github.com/manishpatel00/Error404-UI) | 19+ animated 404 templates and a CLI for React | Next.js, MDX, Playwright |
 
----
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=manishpatel00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishpatel00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=manishpatel00&theme=tokyonight&hide_border=true&background=0D1117&ring=7C83FD&fire=7C83FD&currStreakLabel=FFFFFF" alt="GitHub streak" />
 
 </div>
